@@ -1,0 +1,7 @@
+C:\Users\Zver\Desktop\Любимка\Assignments\MathOperationAssignment\bin\Debug\MathOperationAssignment.exe.config
+C:\Users\Zver\Desktop\Любимка\Assignments\MathOperationAssignment\bin\Debug\MathOperationAssignment.exe
+C:\Users\Zver\Desktop\Любимка\Assignments\MathOperationAssignment\bin\Debug\MathOperationAssignment.pdb
+C:\Users\Zver\Desktop\Любимка\Assignments\MathOperationAssignment\obj\Debug\MathOperationAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zver\Desktop\Любимка\Assignments\MathOperationAssignment\obj\Debug\MathOperationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Любимка\Assignments\MathOperationAssignment\obj\Debug\MathOperationAssignment.exe
+C:\Users\Zver\Desktop\Любимка\Assignments\MathOperationAssignment\obj\Debug\MathOperationAssignment.pdb

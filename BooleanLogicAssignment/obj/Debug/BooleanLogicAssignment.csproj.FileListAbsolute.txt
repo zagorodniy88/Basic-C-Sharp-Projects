@@ -1,0 +1,8 @@
+C:\Users\Zver\Desktop\Любимка\Assignments\BooleanLogicAssignment\bin\Debug\BooleanLogicAssignment.exe.config
+C:\Users\Zver\Desktop\Любимка\Assignments\BooleanLogicAssignment\bin\Debug\BooleanLogicAssignment.exe
+C:\Users\Zver\Desktop\Любимка\Assignments\BooleanLogicAssignment\bin\Debug\BooleanLogicAssignment.pdb
+C:\Users\Zver\Desktop\Любимка\Assignments\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\Любимка\Assignments\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zver\Desktop\Любимка\Assignments\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Любимка\Assignments\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.exe
+C:\Users\Zver\Desktop\Любимка\Assignments\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.pdb

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "68a04564-014f-4e4b-a5ec-41b5a98c3a08": {
+      "ProjectGuid": "68a04564-014f-4e4b-a5ec-41b5a98c3a08",
+      "DisplayName": "Assignment1",
+      "ColorIndex": 0
+    },
+    "43bb0887-f62a-499d-ad06-5881650a6b99": {
+      "ProjectGuid": "43bb0887-f62a-499d-ad06-5881650a6b99",
+      "DisplayName": "DailyReportAssignment",
+      "ColorIndex": 1
+    },
+    "c6c49639-c7b5-4ac8-b0e2-611400f89d32": {
+      "ProjectGuid": "c6c49639-c7b5-4ac8-b0e2-611400f89d32",
+      "DisplayName": "MathOperationAssignment",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

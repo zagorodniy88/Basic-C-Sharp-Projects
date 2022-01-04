@@ -15,7 +15,57 @@
       "ProjectGuid": "c6c49639-c7b5-4ac8-b0e2-611400f89d32",
       "DisplayName": "MathOperationAssignment",
       "ColorIndex": 2
+    },
+    "494a6522-1244-4e07-907d-470cd4fde2c7": {
+      "ProjectGuid": "494a6522-1244-4e07-907d-470cd4fde2c7",
+      "DisplayName": "BooleanLogicAssignment",
+      "ColorIndex": 3
+    },
+    "313cedb6-d127-4757-a23d-5b594c9689b4": {
+      "ProjectGuid": "313cedb6-d127-4757-a23d-5b594c9689b4",
+      "DisplayName": "IncomeComparisonAssignment",
+      "ColorIndex": 4
+    },
+    "151a707e-21fa-4819-a626-e856627d012d": {
+      "ProjectGuid": "151a707e-21fa-4819-a626-e856627d012d",
+      "DisplayName": "Price-QuoteApplicationAssignment",
+      "ColorIndex": 5
+    },
+    "aab439bc-e5f1-42f3-9816-6719524bb469": {
+      "ProjectGuid": "aab439bc-e5f1-42f3-9816-6719524bb469",
+      "DisplayName": "LoopAssignment",
+      "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "4491b708-8597-463a-ad6d-eb928f6417df": {
+      "ProjectGuid": "4491b708-8597-463a-ad6d-eb928f6417df",
+      "DisplayName": "StringAssignment",
+      "ColorIndex": 7
+    },
+    "72921988-c370-4bc8-9edc-2ae1077851f3": {
+      "ProjectGuid": "72921988-c370-4bc8-9edc-2ae1077851f3",
+      "DisplayName": "Exceptions",
+      "ColorIndex": 8
+    },
+    "7b18ff51-da57-46e9-a24a-0519a562c9bb": {
+      "ProjectGuid": "7b18ff51-da57-46e9-a24a-0519a562c9bb",
+      "DisplayName": "Console App Assignment",
+      "ColorIndex": 9
+    },
+    "d6e63962-7c1d-4c48-892d-b6c2a251476d": {
+      "ProjectGuid": "d6e63962-7c1d-4c48-892d-b6c2a251476d",
+      "DisplayName": "Arrays",
+      "ColorIndex": 10
+    },
+    "c1a9a56c-0214-4084-bd16-bee2698d3366": {
+      "ProjectGuid": "c1a9a56c-0214-4084-bd16-bee2698d3366",
+      "DisplayName": "Method Assignment",
+      "ColorIndex": 11
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 12
 }

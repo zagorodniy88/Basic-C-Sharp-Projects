@@ -65,7 +65,27 @@
       "ProjectGuid": "c1a9a56c-0214-4084-bd16-bee2698d3366",
       "DisplayName": "Method Assignment",
       "ColorIndex": 11
+    },
+    "fe5a21f5-702c-4bd8-8c3b-adcd1290ca35": {
+      "ProjectGuid": "fe5a21f5-702c-4bd8-8c3b-adcd1290ca35",
+      "DisplayName": "Classes and Methods Assignment 1",
+      "ColorIndex": 12
+    },
+    "7c5399a8-4381-4129-8b52-a142856e4974": {
+      "ProjectGuid": "7c5399a8-4381-4129-8b52-a142856e4974",
+      "DisplayName": "Classes and Methods Assignment 2",
+      "ColorIndex": 13
+    },
+    "752590d7-da9b-475e-8ee8-3a906470bd43": {
+      "ProjectGuid": "752590d7-da9b-475e-8ee8-3a906470bd43",
+      "DisplayName": "Classes and Methods Assignment 3",
+      "ColorIndex": 14
+    },
+    "dc5ca925-5a5b-44e4-a833-eb2af353d96c": {
+      "ProjectGuid": "dc5ca925-5a5b-44e4-a833-eb2af353d96c",
+      "DisplayName": "Class Method Assignment",
+      "ColorIndex": 15
     }
   },
-  "NextColorIndex": 12
+  "NextColorIndex": 0
 }

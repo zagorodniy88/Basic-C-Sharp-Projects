@@ -85,7 +85,17 @@
       "ProjectGuid": "dc5ca925-5a5b-44e4-a833-eb2af353d96c",
       "DisplayName": "Class Method Assignment",
       "ColorIndex": 15
+    },
+    "d13c2675-4903-407d-abf5-61fb39b69e79": {
+      "ProjectGuid": "d13c2675-4903-407d-abf5-61fb39b69e79",
+      "DisplayName": "ConsoleApp",
+      "ColorIndex": 0
+    },
+    "7bd7e9fa-9c93-4f59-af18-7cc238cdd0ad": {
+      "ProjectGuid": "7bd7e9fa-9c93-4f59-af18-7cc238cdd0ad",
+      "DisplayName": "Abstract Classes Assignment",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 0
+  "NextColorIndex": 2
 }

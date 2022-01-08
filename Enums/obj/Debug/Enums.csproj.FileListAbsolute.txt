@@ -1,0 +1,8 @@
+C:\Users\Zver\Desktop\Любимка\Assignments\Enums\bin\Debug\Enums.exe.config
+C:\Users\Zver\Desktop\Любимка\Assignments\Enums\bin\Debug\Enums.exe
+C:\Users\Zver\Desktop\Любимка\Assignments\Enums\bin\Debug\Enums.pdb
+C:\Users\Zver\Desktop\Любимка\Assignments\Enums\obj\Debug\Enums.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\Любимка\Assignments\Enums\obj\Debug\Enums.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zver\Desktop\Любимка\Assignments\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Любимка\Assignments\Enums\obj\Debug\Enums.exe
+C:\Users\Zver\Desktop\Любимка\Assignments\Enums\obj\Debug\Enums.pdb

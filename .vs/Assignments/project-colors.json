@@ -95,7 +95,12 @@
       "ProjectGuid": "7bd7e9fa-9c93-4f59-af18-7cc238cdd0ad",
       "DisplayName": "Abstract Classes Assignment",
       "ColorIndex": 1
+    },
+    "4219a284-e15a-40e4-a71a-d8a28e9b0d49": {
+      "ProjectGuid": "4219a284-e15a-40e4-a71a-d8a28e9b0d49",
+      "DisplayName": "Generics Assignment",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }

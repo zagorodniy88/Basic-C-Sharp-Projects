@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract Classes Assignment
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics Assignment", "Generics Assignment\Generics Assignment.csproj", "{4219A284-E15A-40E4-A71A-D8A28E9B0D49}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enums", "Enums\Enums.csproj", "{A5AB4532-5716-405E-97CB-563193365966}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structs Assignment", "Structs Assignment\Structs Assignment.csproj", "{FC47390B-550A-44CB-B048-F335D7E05184}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +127,14 @@ Global
 		{4219A284-E15A-40E4-A71A-D8A28E9B0D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4219A284-E15A-40E4-A71A-D8A28E9B0D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4219A284-E15A-40E4-A71A-D8A28E9B0D49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5AB4532-5716-405E-97CB-563193365966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5AB4532-5716-405E-97CB-563193365966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5AB4532-5716-405E-97CB-563193365966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5AB4532-5716-405E-97CB-563193365966}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC47390B-550A-44CB-B048-F335D7E05184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC47390B-550A-44CB-B048-F335D7E05184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC47390B-550A-44CB-B048-F335D7E05184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC47390B-550A-44CB-B048-F335D7E05184}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

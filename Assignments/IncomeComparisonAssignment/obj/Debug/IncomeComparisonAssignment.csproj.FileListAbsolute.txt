@@ -1,0 +1,8 @@
+C:\Users\Zver\Desktop\Любимка\Assignments\IncomeComparisonAssignment\bin\Debug\IncomeComparisonAssignment.exe.config
+C:\Users\Zver\Desktop\Любимка\Assignments\IncomeComparisonAssignment\bin\Debug\IncomeComparisonAssignment.exe
+C:\Users\Zver\Desktop\Любимка\Assignments\IncomeComparisonAssignment\bin\Debug\IncomeComparisonAssignment.pdb
+C:\Users\Zver\Desktop\Любимка\Assignments\IncomeComparisonAssignment\obj\Debug\IncomeComparisonAssignment.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\Любимка\Assignments\IncomeComparisonAssignment\obj\Debug\IncomeComparisonAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zver\Desktop\Любимка\Assignments\IncomeComparisonAssignment\obj\Debug\IncomeComparisonAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Любимка\Assignments\IncomeComparisonAssignment\obj\Debug\IncomeComparisonAssignment.exe
+C:\Users\Zver\Desktop\Любимка\Assignments\IncomeComparisonAssignment\obj\Debug\IncomeComparisonAssignment.pdb

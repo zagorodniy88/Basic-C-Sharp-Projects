@@ -1,0 +1,7 @@
+C:\Users\Zver\Desktop\Любимка\Assignments\Console App Assignment\bin\Debug\Console App Assignment.exe.config
+C:\Users\Zver\Desktop\Любимка\Assignments\Console App Assignment\bin\Debug\Console App Assignment.exe
+C:\Users\Zver\Desktop\Любимка\Assignments\Console App Assignment\bin\Debug\Console App Assignment.pdb
+C:\Users\Zver\Desktop\Любимка\Assignments\Console App Assignment\obj\Debug\Console App Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zver\Desktop\Любимка\Assignments\Console App Assignment\obj\Debug\Console App Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Любимка\Assignments\Console App Assignment\obj\Debug\Console App Assignment.exe
+C:\Users\Zver\Desktop\Любимка\Assignments\Console App Assignment\obj\Debug\Console App Assignment.pdb

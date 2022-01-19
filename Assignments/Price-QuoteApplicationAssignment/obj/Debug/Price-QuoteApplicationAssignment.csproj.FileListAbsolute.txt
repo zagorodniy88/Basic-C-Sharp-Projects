@@ -1,0 +1,7 @@
+C:\Users\Zver\Desktop\Любимка\Assignments\Price-QuoteApplicationAssignment\bin\Debug\Price-QuoteApplicationAssignment.exe.config
+C:\Users\Zver\Desktop\Любимка\Assignments\Price-QuoteApplicationAssignment\bin\Debug\Price-QuoteApplicationAssignment.exe
+C:\Users\Zver\Desktop\Любимка\Assignments\Price-QuoteApplicationAssignment\bin\Debug\Price-QuoteApplicationAssignment.pdb
+C:\Users\Zver\Desktop\Любимка\Assignments\Price-QuoteApplicationAssignment\obj\Debug\Price-QuoteApplicationAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zver\Desktop\Любимка\Assignments\Price-QuoteApplicationAssignment\obj\Debug\Price-QuoteApplicationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Любимка\Assignments\Price-QuoteApplicationAssignment\obj\Debug\Price-QuoteApplicationAssignment.exe
+C:\Users\Zver\Desktop\Любимка\Assignments\Price-QuoteApplicationAssignment\obj\Debug\Price-QuoteApplicationAssignment.pdb

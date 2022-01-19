@@ -1,0 +1,7 @@
+C:\Users\Zver\Desktop\Любимка\Assignments\StringAssignment\bin\Debug\StringAssignment.exe.config
+C:\Users\Zver\Desktop\Любимка\Assignments\StringAssignment\bin\Debug\StringAssignment.exe
+C:\Users\Zver\Desktop\Любимка\Assignments\StringAssignment\bin\Debug\StringAssignment.pdb
+C:\Users\Zver\Desktop\Любимка\Assignments\StringAssignment\obj\Debug\StringAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zver\Desktop\Любимка\Assignments\StringAssignment\obj\Debug\StringAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Любимка\Assignments\StringAssignment\obj\Debug\StringAssignment.exe
+C:\Users\Zver\Desktop\Любимка\Assignments\StringAssignment\obj\Debug\StringAssignment.pdb

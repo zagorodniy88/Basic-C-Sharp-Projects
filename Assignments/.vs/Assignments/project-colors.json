@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "68a04564-014f-4e4b-a5ec-41b5a98c3a08": {
+      "ProjectGuid": "68a04564-014f-4e4b-a5ec-41b5a98c3a08",
+      "DisplayName": "Assignment1",
+      "ColorIndex": 0
+    },
+    "43bb0887-f62a-499d-ad06-5881650a6b99": {
+      "ProjectGuid": "43bb0887-f62a-499d-ad06-5881650a6b99",
+      "DisplayName": "DailyReportAssignment",
+      "ColorIndex": 1
+    },
+    "c6c49639-c7b5-4ac8-b0e2-611400f89d32": {
+      "ProjectGuid": "c6c49639-c7b5-4ac8-b0e2-611400f89d32",
+      "DisplayName": "MathOperationAssignment",
+      "ColorIndex": 2
+    },
+    "494a6522-1244-4e07-907d-470cd4fde2c7": {
+      "ProjectGuid": "494a6522-1244-4e07-907d-470cd4fde2c7",
+      "DisplayName": "BooleanLogicAssignment",
+      "ColorIndex": 3
+    },
+    "313cedb6-d127-4757-a23d-5b594c9689b4": {
+      "ProjectGuid": "313cedb6-d127-4757-a23d-5b594c9689b4",
+      "DisplayName": "IncomeComparisonAssignment",
+      "ColorIndex": 4
+    },
+    "151a707e-21fa-4819-a626-e856627d012d": {
+      "ProjectGuid": "151a707e-21fa-4819-a626-e856627d012d",
+      "DisplayName": "Price-QuoteApplicationAssignment",
+      "ColorIndex": 5
+    },
+    "aab439bc-e5f1-42f3-9816-6719524bb469": {
+      "ProjectGuid": "aab439bc-e5f1-42f3-9816-6719524bb469",
+      "DisplayName": "LoopAssignment",
+      "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "4491b708-8597-463a-ad6d-eb928f6417df": {
+      "ProjectGuid": "4491b708-8597-463a-ad6d-eb928f6417df",
+      "DisplayName": "StringAssignment",
+      "ColorIndex": 7
+    },
+    "72921988-c370-4bc8-9edc-2ae1077851f3": {
+      "ProjectGuid": "72921988-c370-4bc8-9edc-2ae1077851f3",
+      "DisplayName": "Exceptions",
+      "ColorIndex": 8
+    },
+    "7b18ff51-da57-46e9-a24a-0519a562c9bb": {
+      "ProjectGuid": "7b18ff51-da57-46e9-a24a-0519a562c9bb",
+      "DisplayName": "Console App Assignment",
+      "ColorIndex": 9
+    },
+    "d6e63962-7c1d-4c48-892d-b6c2a251476d": {
+      "ProjectGuid": "d6e63962-7c1d-4c48-892d-b6c2a251476d",
+      "DisplayName": "Arrays",
+      "ColorIndex": 10
+    },
+    "c1a9a56c-0214-4084-bd16-bee2698d3366": {
+      "ProjectGuid": "c1a9a56c-0214-4084-bd16-bee2698d3366",
+      "DisplayName": "Method Assignment",
+      "ColorIndex": 11
+    },
+    "fe5a21f5-702c-4bd8-8c3b-adcd1290ca35": {
+      "ProjectGuid": "fe5a21f5-702c-4bd8-8c3b-adcd1290ca35",
+      "DisplayName": "Classes and Methods Assignment 1",
+      "ColorIndex": 12
+    },
+    "7c5399a8-4381-4129-8b52-a142856e4974": {
+      "ProjectGuid": "7c5399a8-4381-4129-8b52-a142856e4974",
+      "DisplayName": "Classes and Methods Assignment 2",
+      "ColorIndex": 13
+    },
+    "752590d7-da9b-475e-8ee8-3a906470bd43": {
+      "ProjectGuid": "752590d7-da9b-475e-8ee8-3a906470bd43",
+      "DisplayName": "Classes and Methods Assignment 3",
+      "ColorIndex": 14
+    },
+    "dc5ca925-5a5b-44e4-a833-eb2af353d96c": {
+      "ProjectGuid": "dc5ca925-5a5b-44e4-a833-eb2af353d96c",
+      "DisplayName": "Class Method Assignment",
+      "ColorIndex": 15
+    },
+    "d13c2675-4903-407d-abf5-61fb39b69e79": {
+      "ProjectGuid": "d13c2675-4903-407d-abf5-61fb39b69e79",
+      "DisplayName": "ConsoleApp",
+      "ColorIndex": 0
+    },
+    "7bd7e9fa-9c93-4f59-af18-7cc238cdd0ad": {
+      "ProjectGuid": "7bd7e9fa-9c93-4f59-af18-7cc238cdd0ad",
+      "DisplayName": "Abstract Classes Assignment",
+      "ColorIndex": 1
+    },
+    "4219a284-e15a-40e4-a71a-d8a28e9b0d49": {
+      "ProjectGuid": "4219a284-e15a-40e4-a71a-d8a28e9b0d49",
+      "DisplayName": "Generics Assignment",
+      "ColorIndex": 2
+    },
+    "a5ab4532-5716-405e-97cb-563193365966": {
+      "ProjectGuid": "a5ab4532-5716-405e-97cb-563193365966",
+      "DisplayName": "Enums",
+      "ColorIndex": 3
+    },
+    "fc47390b-550a-44cb-b048-f335d7e05184": {
+      "ProjectGuid": "fc47390b-550a-44cb-b048-f335d7e05184",
+      "DisplayName": "Structs Assignment",
+      "ColorIndex": 4
+    },
+    "978a225d-c8cf-4a9a-868b-87045637904e": {
+      "ProjectGuid": "978a225d-c8cf-4a9a-868b-87045637904e",
+      "DisplayName": "File_IO_Assignment",
+      "ColorIndex": 5
+    },
+    "0b07e8fb-a16b-4f48-b0aa-59e210a13f32": {
+      "ProjectGuid": "0b07e8fb-a16b-4f48-b0aa-59e210a13f32",
+      "DisplayName": "Datetime_Assignment",
+      "ColorIndex": 6
+    },
+    "a9a5f58e-856e-493e-94d8-324805c448e2": {
+      "ProjectGuid": "a9a5f58e-856e-493e-94d8-324805c448e2",
+      "DisplayName": "Additional Features Assignment",
+      "ColorIndex": 7
+    },
+    "693945ba-51f4-4672-ab4a-588d2946a53e": {
+      "ProjectGuid": "693945ba-51f4-4672-ab4a-588d2946a53e",
+      "DisplayName": "Exception Handling Assignment",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

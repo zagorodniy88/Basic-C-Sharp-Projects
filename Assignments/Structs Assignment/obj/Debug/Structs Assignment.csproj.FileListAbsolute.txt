@@ -1,0 +1,7 @@
+C:\Users\Zver\Desktop\Любимка\Assignments\Structs Assignment\bin\Debug\Structs Assignment.exe.config
+C:\Users\Zver\Desktop\Любимка\Assignments\Structs Assignment\bin\Debug\Structs Assignment.exe
+C:\Users\Zver\Desktop\Любимка\Assignments\Structs Assignment\bin\Debug\Structs Assignment.pdb
+C:\Users\Zver\Desktop\Любимка\Assignments\Structs Assignment\obj\Debug\Structs Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zver\Desktop\Любимка\Assignments\Structs Assignment\obj\Debug\Structs Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Любимка\Assignments\Structs Assignment\obj\Debug\Structs Assignment.exe
+C:\Users\Zver\Desktop\Любимка\Assignments\Structs Assignment\obj\Debug\Structs Assignment.pdb
